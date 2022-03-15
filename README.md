@@ -1,5 +1,4 @@
-# react-dt-money
-  This application aims to manage personal finances involving incomes and outcomes
+# This application aims to manage personal finances involving incomes and outcomes
 
 ## The application was configured using the boilerplate create react-app
 
